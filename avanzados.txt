@@ -1,0 +1,3 @@
+=== COMANDOS AVANZADOS ===
+1. grep - Buscar texto
+2. chmod - Cambiar permisos
