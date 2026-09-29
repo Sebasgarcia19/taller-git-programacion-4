@@ -1,5 +1,5 @@
 === TUTORIAL DE COMANDOS BÁSICOS ===
 1. ls - Listar archivos
 2. cd - Cambiar de directorio
-3. pwd - Mostrar la ruta actual (Añadido por Azul)
-4. mkdir - Crear un directorio (Añadido por Rojo)
+3. pwd - Ver directorio actual (Modificado por ROJO)
+4. mkdir - Crear un directorio
